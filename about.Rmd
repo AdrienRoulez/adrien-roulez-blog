@@ -1,8 +1,15 @@
 ---
-title: "About me"
+title: "Adrien's Blog"
 ---
 
+Name: Adrien Roulez
 
-This section also must include: 
+Teacher: Bénédicte Bouchet Variz
 
-- first name/surname, teacher’s name, class name and academic year
+Class: BAC 2 Biology
+
+Academic Year: 2019-2020
+
+Course: English for Science , Third group
+
+Topic for the portfolio : Fecal transplants to save the Koalas
