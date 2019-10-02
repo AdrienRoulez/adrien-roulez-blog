@@ -11,7 +11,7 @@ navbar:
       href: about.html
     - icon: fab fa-github
       href: https://github.com/AdrienRoulez/adrien-roulez-blog
-base_url: http://adrien-roulez-blog.github.io/adrien-roulez-blog/
+base_url: http://AdrienRoulez.github.io/adrien-roulez-blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
