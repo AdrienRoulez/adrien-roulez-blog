@@ -1,0 +1,32 @@
+---
+title: "Koalas could get FAECES transplants to help the marsupials eat a wider variety of food and survive habitat loss"
+description: |
+  This article explains how we could help the species to eat another plants, and survive.
+author:
+  - name: Adrien Roulez
+    url: {}
+date: 10-15-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Details
+
+* **Source of the article:**
+<https://www.dailymail.co.uk/sciencetech/article-7375813/Koalas-FAECES-transplants-help-survive.html>
+
+* **Words number**
+740
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| E.g. To cope with   | To deal with                   |
+|                     | Not too distant future         |
+|                     |                                |
