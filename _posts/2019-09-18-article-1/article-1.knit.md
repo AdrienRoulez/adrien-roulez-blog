@@ -10,9 +10,7 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 
 ## Link
 
@@ -21,6 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Words Number
 
+736 words
 
 ## Vocabulary 
 
