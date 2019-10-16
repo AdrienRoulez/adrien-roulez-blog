@@ -27,6 +27,35 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
-|                     |                                |
+| Transplant | 
+| Gut | the Digestive tract |
+| Allowed (to allow) | |
+| messmate | Variety of Eucalptus |
+| Increasing habitat loss | deforestation |
+| to struggle | To experience difficulty, and make a very great effort in order to do something, resist to the habitat loss |
+| slightly | a little , a bit |
+| wider | broader, larger |
+| altered | changed, modified |
+| plummeted | tumbled |
+| starved to death | 
+| starvation | 
+| distressing | 
+| despite | 
+| sample | 
+| assessment | 
+| stretch |
+| colitis | 
+| irritable bowel syndrome | 
+| rate | 
+| nostril | 
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Reshearchers frome the University of Queensland in Australia,Dr Michaela Blyton, Dr Ben Moore                          |
+| Published in?                | 21 August 2019                                                       |
+| General topic?               | Explanation of the faecal transplantation, and explanation of the problems with the populations of koalas and their unique food.                       |
+| Procedure/what was examined? | The populations of koalas are increasing. They eat a unique food and this action causes the decrease of edible plants. The problem is that they are unable to eat another thing. The feacal transplant would be a solution to stop the extinction. It would be done via bacterias and would boost the microbiome of the marsupials and allow them to eat a slightly wider range of food than the one specific type of eucalyptus. The transplants are done via tubes, inserted into the nostril, down the throat and into the stomach or directly into the colon.|
+| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Remaining questions?         | (check if there are still interrogations at the end of the article) |
