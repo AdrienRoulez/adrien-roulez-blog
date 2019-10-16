@@ -1,8 +1,8 @@
 ---
-title: "Article 1"
-author:
+title: "Koalas could get FAECES transplants to help the marsupials eat a wider variety of food and survive habitat loss"
+author: 
   - name: Adrien Roulez
-date: 09-18-2019
+date: 08-21-2019
 categories:
 preview: 
 output:
@@ -14,8 +14,15 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+<https://www.dailymail.co.uk/sciencetech/article-7375813/Koalas-FAECES-transplants-help-survive.html>
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+## About the article
+
+This article explains how to help koalas to eat another food and how to help them to survive. 
+
+## Words Number
+
+736 words
 
 ## Vocabulary 
 
@@ -36,7 +43,6 @@ knitr::opts_chunk$set(echo = FALSE)
 | Remaining questions?         | (check if there are still interrogations at the end of the article) |
 
 
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
 
 
 
