@@ -25,29 +25,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Article
 
-Koalas could get FAECES transplants to help the marsupials eat a wider variety of food and survive habitat loss.
+Koalas could get FAECES **transplants** to help the marsupials eat a wider variety of food and survive habitat loss.
 Koalas only eat a specific type of eucalyptus plant found in the native Australia.  
 Tablets made from the microorganisms of wild koala faecal matter were made. 
-These faecal transplants allowed koalas to eat another plant called messmate.
-It could provide a crucial adaptation which allows the animals to adapt to increasing habitat loss. 
-Faeces transplants could help save koalas from extinction as they continue to struggle with increasing habitat loss. 
-The goal of the transplants is to boost the microbiome of the marsupials and allow them to eat a slightly wider range of food than the one specific type of eucalyptus. 
-Researchers from the University of Queensland in Australia analysed and altered the internal bacteria of a koalas' guts.
-Conservationists in Australia were devastated when koala numbers plummeted in 2013 as many of the animals starved to death.   
+These faecal transplants allowed koalas to eat another plant called **messmate**.
+It could provide a crucial adaptation which **allows** the animals to adapt to **increasing habitat loss**. 
+Faeces transplants could help save koalas from extinction as they continue to **struggle** with increasing habitat loss. 
+
+The goal of the transplants is to boost the microbiome of the marsupials and allow them to eat a **slightly** **wider** range of food than the one specific type of eucalyptus. 
+
+Researchers from the University of Queensland in Australia analysed and **altered** the internal bacteria of a koalas' **guts**.
+Conservationists in Australia were devastated when koala numbers **plummeted** in 2013 as many of the animals **starved to death**.   
 Dr Michaela Blyton began researching ways to save the popular animals following this alarming decline.  
 
 'In 2013 the koala population reached very high densities, leading them to defoliate their preferred food tree species, manna gum,' Dr Blyton said.
-'This led to 70 per cent mortality due to starvation, which was very distressing.'
+'This led to 70 per cent mortality due to starvation, which was very **distressing**.'
 The animals starved to death instead of adapting and eating a different species, known as messmate.
 
-'What was interesting was that even though the koalas were starving, they generally didn't start feeding on a less preferred tree species, messmate, despite the fact that some koalas feed exclusively on messmate.
+'What was interesting was that even though the koalas were starving, they generally didn't start feeding on a less preferred tree species, messmate, **despite** the fact that some koalas feed exclusively on messmate.
 
 'This led me and colleague Dr Ben Moore at Western Sydney University to wonder if the microbes present in koalas' guts - their microbiomes - were limiting which species they could eat, and if we could allow them to expand their diet with faecal inoculations.'
 The team caught wild koalas that only ate manna gum and kept them in temporary captivity at the Cape Otway Conservation Ecology Centre.
 
-Faecal samples from wild koalas who ate messmate were used to create acid-resistant capsules filled with the precise microorganisms essential in the process. 
+Faecal **samples** from wild koalas who ate messmate were used to create acid-resistant capsules filled with the precise microorganisms essential in the process. 
 These were given to other koalas as inoculations to see how it affected their eating habits. 
-Assessment over a 18-day stretch allowed them to be compared to a normal, control group. 
+**Assessment** over a 18-day **stretch** allowed them to be compared to a normal, control group. 
 The researchers found that the faecal inoculations changed the koalas' microbiomes, allowing them to eat messmate.
 'This could affect all aspects of their ecology including nutrition, habitat selection and resource use,' Dr Blyton said.
 'Koalas may naturally have trouble adapting to new diets when their usual food trees become over browsed or after being moved to a new location.
@@ -59,18 +61,19 @@ Faecal microbiota transplantation (FMT) is the transfer of stool from a healthy 
 
 WHAT CAN IT TREAT? 
 It is most commonly used to treat recurring C. difficile infection - spread by bacterial spores found within faeces. It is 90 per cent effective.
-It can also be used to treat gastrointestinal conditions such as colitis, irritable bowel syndrome and constipation - but success rates are much lower. 
+It can also be used to treat gastrointestinal conditions such as **colitis**, **irritable bowel syndrome** and constipation - but success **rates** are much lower. 
 Recent studies have delved into the benefits of treating conditions linked to a poor balance of 'good' and 'bad' bacteria in the gut, such as autism. 
 FMT can replenish bacterial balance as it acts like a probiotic, with samples of faeces often containing up to 1,000 different species of bacteria.  
 
 HOW IS IT PERFORMED?
-The transplant is done via tubes - inserted into the nostril, down the throat and into the stomach - or directly into the colon.
+The transplant is done via tubes - inserted into the **nostril**, down the throat and into the stomach - or directly into the colon.
 However, the faecal sample can also be transplanted through enemas or pills containing freeze-dried material.
 
 IS IT SAFE?
 There have been reports of patients showing unexpected weight gain after treatment, bouts of vomiting and even abdominal pain.
 However, the long-term safety and effectiveness of FMT is relatively unknown, and researchers have called for more studies to determine the risks.
 
+![](image.jpg)
 
 ## Vocabulary
 
@@ -101,9 +104,9 @@ However, the long-term safety and effectiveness of FMT is relatively unknown, an
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Reshearchers frome the University of Queensland in Australia,Dr Michaela Blyton, Dr Ben Moore                          |
+| Researchers                  | Reshearchers frome the University of Queensland in Australia, Dr Michaela Blyton, Dr Ben Moore                          |
 | Published in?                | 21 August 2019                                                       |
 | General topic?               | Explanation of the faecal transplantation, and explanation of the problems with the populations of koalas and their unique food.                       |
-| Procedure/what was examined? | The populations of koalas are increasing. They eat a unique food and this action causes the decrease of edible plants. The problem is that they are unable to eat another thing. The feacal transplant would be a solution to stop the extinction. It would be done via bacterias and would boost the microbiome of the marsupials and allow them to eat a slightly wider range of food than the one specific type of eucalyptus. The transplants are done via tubes, inserted into the nostril, down the throat and into the stomach or directly into the colon.|
+| Procedure/what was examined? | The populations of koalas are increasing. They eat a unique food and this action causes the decrease of edible plants. The problem is that they are unable to eat another thing, and then they could die. The feacal transplant would be a solution to stop the extinction. It would be done via bacterias and would boost the microbiome of the marsupials and allow them to eat a slightly wider range of food than the one specific type of eucalyptus. The transplants are done via tubes, inserted into the nostril, down the throat and into the stomach or directly into the colon.|
 | Conclusions/discovery?       |  The faecal inoculations changed the koalas' microbiomes, and these koalas are now allowed to eat another plants (messmate). In future, the feacal transplants could be used to adjust the koalas' microbiomes before to move them into an another place, where they could find their new and abundant food. There are unfortunatly bad points... There have been reports of patients showing unexpected weight gain after treatment, bouts of vomiting and even abdominal pain.      |
 | Remaining questions?         | There are again many questions about the security and the health of the koalas, but the researchers have called for more studies to deepen the researches and find all the risks and lon-term effects. |
