@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/ARTICLE 2/",
+    "title": "Poo transplants to help save koalas",
+    "description": "This artcile explains the theme of the research to help the koalas to eat a wider range of food. According to the researchers, a faecal transplant may influence what species of eucalyptus koalas can feed on.",
+    "author": [
+      {
+        "name": "Adrien Roulez",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-31",
+    "categories": [],
+    "preview": "posts/ARTICLE 2/bacteria.jpg",
+    "last_modified": "2019-11-02T15:21:37+01:00"
+  },
+  {
     "path": "posts/2019-10-15-nom-de-votre-article/",
     "title": "Koalas could get FAECES transplants to help the marsupials eat a wider variety of food and survive habitat loss",
     "description": "This article explains how we could help the species to eat another plants, and survive.",
