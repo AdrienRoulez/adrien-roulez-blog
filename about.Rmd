@@ -2,14 +2,17 @@
 title: "Adrien's Blog"
 ---
 
-Name: Adrien Roulez
+**NAME** : Adrien Roulez
 
-Teacher: Bénédicte Bouchet Variz
+**TEACHER** : Bénédicte Bouchet Variz
 
-Class: BAC 2 Biology
+**CLASS** : BAC 2 Biology
 
-Academic Year: 2019-2020
+**ACADEMIC YEAR** : 2019-2020
 
-Course: English for Science , Third group
+**COURSE** : "English for Science" , Third group
 
-Topic for the portfolio : "Fecal transplants to save the Koalas"
+**TOPIC OF THE PORTFOLIO** : "Fecal transplants to save the Koalas"
+
+
+![](images.jpg)
