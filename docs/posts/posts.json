@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-02-article-3/",
+    "title": "Koalas might need fecal transplants to survive on our planet",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Adrien Roulez",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-02",
+    "categories": [],
+    "preview": "posts/2019-11-02-article-3/cacas_dans_la_main_mdr.jpg",
+    "last_modified": "2019-11-02T18:06:40+01:00"
+  },
+  {
     "path": "posts/ARTICLE 2/",
     "title": "Poo transplants to help save koalas",
     "description": "This article explains the theme of the research to help the koalas to eat a wider range of food. According to the researchers, a fecal transplant may influence what species of eucalyptus koalas can feed on.",
@@ -28,20 +43,5 @@
     "categories": [],
     "preview": "posts/2019-10-15-nom-de-votre-article/",
     "last_modified": "2019-11-02T17:30:24+01:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "EXEMPLE",
-    "description": {},
-    "author": [
-      {
-        "name": "Adrien Roulez",
-        "url": {}
-      }
-    ],
-    "date": "2019-08-21",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-16T11:23:58+02:00"
   }
 ]

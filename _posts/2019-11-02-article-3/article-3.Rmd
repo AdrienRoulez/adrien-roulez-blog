@@ -1,0 +1,47 @@
+---
+title: "Koalas might need fecal transplants to survive on our planet"
+description: |
+  A short description of the post.
+author:
+  - name: Adrien Roulez
+    url: {}
+date: 11-02-2019
+preview: cacas_dans_la_main_mdr.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Details
+
+* **Source of the article**
+<https://www.washingtonpost.com/science/2019/08/23/koalas-might-need-poop-transplants-survive-our-planet/>
+
+* **Words number**
+1063
+
+
+
+![](koala-250-pcs-wwf_PKxM6S1.jpg)
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+|    |                    |
+|                     |          |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |                         |
+| Published in?                |                                                        |
+| General topic?               |                        |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |        |
+| Remaining questions?         |  |
