@@ -1,7 +1,7 @@
 ---
 title: "Koalas might need fecal transplants to survive on our planet"
 description: |
-  A short description of the post.
+  This article talks about the method that will help and allow the koalas to eat another species of eucalyptus. The method is developed and explained.
 author:
   - name: Adrien Roulez
     url: {}
@@ -32,16 +32,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-|    |                    |
-|                     |          |
+| Enema | A procedure in which liquid or gas is injected into the rectum. |
+| Intractable | Hard to control or deal with something. |
+| Tweaking (to tweak) | Improve a system by making fine adjustments to it. |
+| Picky | Fussy and hard to please |
+| Plucked | Take hold of something and quickly remove it from its place. |
+| Perished | Die, especially in a violent or sudden way. |
+| Hunch | A feeling or guess based on intuition rather than fact. |
+| Payloads | Here the fecal transplants, contained in specific capsules. |
+| Eucalyptus-munching microbes (to munch) | Eat something steadily and often audibly. (Here we’re talking about the bacterias that allow the koala to digest) |
+| Coaxing | Persistent gentle persuasion |
+| Breast milk | Milk produced by a woman's breasts after childbirth as food for her child. |
+| Goopy | Sloppy or sticky semi-fluid matter, typically something unpleasant. |
+| Mashes (to mash) | Reduce the feces to a pulpy mass by crushing it. |
+| Squirting | Cause a liquid to be ejected from a small opening in a thin, fast stream or jet. |
+| Chlamydia | A very small parasitic bacterium which, like a virus, requires the biochemical mechanisms of another cell in order to reproduce. Bacteria of this type cause various diseases including trachoma, psittacosis, and non-specific urethritis. |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |                         |
-| Published in?                |                                                        |
-| General topic?               |                        |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |        |
-| Remaining questions?         |  |
+| Researchers                  | Ben Moore (ecologist at the Hawkesbury Institute for the Environment at Western Sydney University), Michaela Blyton (ecologist at the University of Queensland), Priya Bapodra-Villaverde (senior veterinarian at the Columbus Zoo and Aquarium in Ohio) |
+| Published in?                | August 23, 2019 |
+| General topic?               | The article explains why the koalas die, which method has been invented to help them, and how this method can be realised |
+| Procedure/what was examined? | There are different koalas, these that eat Manna gum, or these that messmate. And these koalas have different microbiomes in their gut that allow them to eat a specific food. The goal of the fecal transplants is to allow the koalas that eat exclusively maana gum to feed on messmate. This is done via fecal transpants, poop pills, that contain the messmate-munching microbes. It's introduced in the koalas' gut. This method allows the koalas that eat manna gum to "recieve" a new microbiome. |
+| Conclusions/discovery?       | This method is concluding and can be now combined with the breast milk and a mother's green poop. This strange mixture transmits the microbiome to the next generation, and can be used to prevent the dead of the koalas. The researchers also can turn this to fecal transplants to counterbalance the effects of antibiotics which can kill the good bacterias of the microbiome. They make a probiotic milkshake |
+| Remaining questions?         |  “So the hope now is that by using a modified version of this approach, it will give us a way to improve the number of koalas that recover from these sorts of treatments and get them back out there, where they need to survive if populations are going to persist.”|
