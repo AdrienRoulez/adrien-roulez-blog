@@ -16,4 +16,8 @@ collections:
     posts:
       disqus: adrien-roulez-blog
       share: [twitter, linkedin, facebook]
-output: distill::distill_article
+output:
+  distill::distill_article:
+    css: styles.css
+  
+  
