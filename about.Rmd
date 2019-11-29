@@ -4,15 +4,15 @@ title: "Adrien's Blog"
 
 **NAME** : Adrien Roulez
 
-**TEACHER** : Bénédicte Bouchet Variz
+**TEACHER** : Ms Bénédicte Bouchet Variz
 
-**CLASS** : BAC 2 Biology
+**CLASS** : University of Mons, BAC 2 Biology
 
 **ACADEMIC YEAR** : 2019-2020
 
 **COURSE** : "English for Science" , Third group
 
-**TOPIC OF THE PORTFOLIO** : "Fecal transplants to save the Koalas"
+**TOPIC OF THE PORTFOLIO** : "How can we prevent *Koalas* from extinction? "
 
 
 ![](images.jpg)
