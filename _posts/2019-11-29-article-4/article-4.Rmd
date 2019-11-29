@@ -1,0 +1,56 @@
+---
+title: "article 4"
+description: |
+  A short description of the post.
+author:
+  - name: Adrien Roulez
+    url: {}
+date: 11-29-2019
+preview: téléchargé.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Details
+
+* **Source of the article**
+
+* **Words number**
+
+![](koala-australie.jpeg)
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                |  |
+| General topic?               |  |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
+
+
+
+
+
+
