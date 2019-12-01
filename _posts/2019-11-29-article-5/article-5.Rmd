@@ -1,7 +1,7 @@
 ---
-title: "article 5"
+title: "Longleat koalas aid disease research breakthrough"
 description: |
-  A short description of the post.
+  This article explains 
 author:
   - name: Adrien Roulez
     url: {}
@@ -19,30 +19,35 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Details
 
 * **Source of the article**
+<https://www.bbc.com/news/uk-england-wiltshire-50040627>
 
 * **Words number**
+358
 
 ## Vocabulary
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Vulnarable | Exposed to the possibility of being attacked or harmed, either physically or emotionally. Here the koala is a species in danger. |
+| disease | A disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or that affects a specific location and is not simply a direct result of physical injury. |
+| Kidney | Each of a pair of organs in the abdominal cavity of mammals, birds, and reptiles, that excrete urine. |
+| Genetic mutation | The changing of the structure of a gene, resulting in a variant form that may be transmitted to subsequent generations, caused by the alteration of single base units in DNA, or the deletion, insertion, or rearrangement of larger sections of genes or chromosomes. |
+| Kidney disease oxalate nephrosis | Oxalate nephrosis is a fancy word for kidney disease caused by calcium oxalate depositing within the kidney tubules. |
+| Genuine | Truly what something is said to be; authentic. |
+| Breakthrough | A sudden, and important discovery or development. |
+| Hopeful | Feeling or inspiring optimism about a future event. |
+| Cross-breading | Produce (an animal or plant) by mating or hybridizing two different species, breeds, or varieties. |
+| Safeguard | Protect from harm or damage with an appropriate measure. |
+| Legacy | Something left or handed down by a predecessor. |
 
 ## Analysis table
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  |
-| Published in?                |  |
-| General topic?               |  |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |  |
+| Researchers                  | Scientists studying the Longleat Koalas, Dr Tarlinton and her team of scientists. |
+| Published in?                | October 14, 2019 |
+| General topic?               | The general topic of this article is the identification of a retrovirus introduced in the genome of the southern populations of koalas, that helps protect themselves from the diseases which have infected the northern populations of koalas. |
+| Procedure/what was examined? | The scientists examined the genome of Wilpena, a koala that died because of a kidney disease. They identified a genetic mutation and a retrovirus present in the species.  |
+| Conclusions/discovery?       | Now, thanks to the information delivered by Wilpena, the scientists will be able to develop cross-breadings to eradicate the mutation that causes the kidney diseases, and preserve the retrovirus which helps protect against the cancers and HIV |
 | Remaining questions?         |  |
+
