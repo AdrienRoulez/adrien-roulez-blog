@@ -1,7 +1,7 @@
 ---
 title: "Sperm and egg cell 'immune response' protects koala DNA"
 description: |
-  This article explains the very strange response of the germline cells towards the retroviruses. This is an essential discovery to understrand how can this species protect itself and survive from viruses 
+  This article explains the very strange response of the germline cells towards the retroviruses. This is an essential discovery to understrand how can this species protect itself and survive from viruses.
 author:
   - name: Adrien Roulez
     url: {}
@@ -32,8 +32,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | ------------------- | ------------------------------ |
 | Samples | A small part or quantity intended to show what the whole is like. |
 | Retrovirus | Any of a group of RNA viruses which insert a DNA copy of their genome into the host cell in order to replicate, e.g. HIV. |
-| germline cells | A series of germ cells each descended or developed from earlier cells in the series, regarded as continuing through successive generations of an organism. |
-| the fittest | In good health; here in the superlative form. That means that the koala with the best health is susceptible to survive. |
+| Germline cells | A series of germ cells each descended or developed from earlier cells in the series, regarded as continuing through successive generations of an organism. |
+| The fittest | In good health; here in the superlative form. That means that the koala with the best health is susceptible to survive. |
 | Pathways | A way of achieving a specified result. |
 | Launches | Start or set in motion; here start the immune response. |
 | Chop up | Cut; here cut the viral sequences during a viral attack. |
@@ -50,4 +50,4 @@ knitr::opts_chunk$set(echo = FALSE)
 | General topic?               | The researchers from these two Universities have discovered a particular immune response of the germinal cells towards the viral sequences, which could cause a lot of diseases like Chlamydia, and cancer.  |
 | Procedure/what was examined? | These scientists are examining a lot of tissues samples from koalas to discover how a unique type of cells can respond to retrovirus infections. It's important to remember that These cells are the geminal cells, and not the immune cells. |
 | Conclusions/discovery?       | The koalas, are nowadays kown by the scientists as a species that has been recently infected by a retrovirus in their germline cells. The works show that there are immune response like pathways in the germline cells. These cells can actively fight back against an invading virus. The germline cells can now recognise a sequence of a new KoRV-A as an invading virus, and not a gene. They can so mount an initial defence against the invading viruses. |
-| Remaining questions?         | This discovery could help all the scientists to better understand the phenomena of evolution. If we could understand this immune response in the immunity of the koalas, it would open a whole new field of research|
+| Remaining questions?         | This discovery could help all the scientists to better understand the phenomena of evolution. If we could understand this immune response in the immunity of the koalas, it would open a whole new field of research.|
