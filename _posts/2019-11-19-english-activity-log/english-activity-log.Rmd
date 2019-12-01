@@ -5,7 +5,7 @@ description: |
 author:
   - name: Adrien Roulez
     url: {}
-date: 11-19-2019
+date: 12-01-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -31,3 +31,13 @@ I watched a youtube vidéo for my topic (koalas).
 In a second time, i found my third article for my portfolio. 
 
 **30/11/2019**: I worked on my fourth article, found the specific vocabulary, and understood more words than ever. This article has been posted on my blog, and it's now accessible with the analysis. I also found my fifth article, and i'll work on very soon. Since two or three weeks, when i go to school, and i'm listening my music, i try to understand all the lyrics. Sometimes It's a bit difficult, but at the end, it will be effective for me to improve my comprehension of the language.
+
+**01/12/2019**: I worked on my fifth article, and read a lot of others. I post here all the links of the articles that i've read. These articles will not be posted and analysed on my blog, but i think it's important for the readers to have access to anothers articles. 
+
+<https://www.bbc.com/news/av/science-environment-47708374/longleat-koala-conservation-scheme-working-despite-death>
+
+<https://www.bbc.com/news/topics/ceddn94wgnnt/koalas>
+
+<https://www.bbc.com/news/world-australia-50230701>
+
+<https://www.sciencedaily.com/releases/2019/10/191010113231.htm>
