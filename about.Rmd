@@ -10,7 +10,7 @@ title: "Adrien's Blog"
 
 **ACADEMIC YEAR** : 2019-2020
 
-**COURSE** : "English for Science" , Third group
+**COURSE** : *"English for Science"* , Third group
 
 **TOPIC OF THE PORTFOLIO** : "How can we prevent *Koalas* from extinction? "
 
