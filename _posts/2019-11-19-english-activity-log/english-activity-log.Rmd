@@ -6,6 +6,7 @@ author:
   - name: Adrien Roulez
     url: {}
 date: 12-01-2019
+preview: speak_english.jpg
 output:
   distill::distill_article:
     self_contained: false
