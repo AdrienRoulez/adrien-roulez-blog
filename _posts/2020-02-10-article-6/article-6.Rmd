@@ -1,11 +1,12 @@
 ---
-title: "article-6"
+title: "Relocating koalas to New Zealand is a nice idea, but it isn't a good one."
 description: |
-  A short description of the post.
+  This article talks about the solutions to save the koalas from Australia. One of those solutions would be to move them to New Zealand, the nearest island from Australia...
 author:
   - name: Adrien Roulez
     url: {}
 date: 02-10-2020
+preview: maps.php.png
 output:
   distill::distill_article:
     self_contained: false
@@ -19,25 +20,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Source of the article**
 
-
+<https://www.theguardian.com/australia-news/commentisfree/2020/jan/15/relocating-koalas-to-new-zealand-is-a-nice-idea-but-it-isnt-a-good-one>
 
 * **Words number**
+664
 
 ## Vocabulary
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-
-
-
+| Bushfire-threatened koalas | The koalas in danger because of the fires in Australia. |
+| Misguided | Having or showing faulty judgement or reasoning. |
+| Brushtail possum |A species of marsupial (the Australian Opossum). |
+| Aware | Having knowledge or perception of a situation or fact. |
+| Thrived | Something that grows or develops well or vigorously. |
+| Endangered | A species seriously at risk of extinction. | 
+| Sake | In the interest of... |
+| Invasive | Tending to spread very quickly and undesirably or harmfully. |
 
 ## Analysis table
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | |
-| Published in?                | |
-| General topic?               | |
-| Procedure/what was examined? | |
-| Conclusions/discovery?       | |
-| Remaining questions?         | |
+| Researchers                  | James Russell (associate professor at the University of Auckland, New Zealand)|
+| Published in?                | January 15, 2020|
+| General topic?               | Here is examined the question of the potential moving of the Australian koalas to New Zealand. |
+| Procedure/what was examined? | In this article, the professor is examinating the possible relocation of the koalas from Australia to New Zealand. In the history, two species (the brushtail possum, and the wallaby) were moved from Australia to New Zealand, and it didn't work. The brushtail possums changed their diet to adapt them to a new way of life, and hence became too invasive. The wallabies also thrived and developped very well in New Zealand whereas they were dying in Australia. The autorities decided to remove them to Australia but Unfortunately, the reverse translocation didn’t work and the wallabies died. It would be a nice idea to protect the koalas, but there are many questions to answer to, and many problems with this idea, like the situations of the wallabies or the brushtail possums.|
+| Conclusions/discovery?       | In fact, it would be a very good idea to move those koalas in danger in their native land, but also a potential ecological disaster. This relocation could trigger many problems like overpopulation, possible undernourishment, potential thermal problems for this species,... We don't know if the koalas will correctly adapt them to their new land, and we aren't able to predict the potential evolution of the moved populations. Therefore it is a choice so difficult to make because of the mountain of variables that we cannot control.|
+| Remaining questions?         | There is an amount of remaining questions about this idea. It could be nice, but it won't be possible for a lot of reasons. What else would koalas eat in New Zealand? Would they survive outside eucalyptus forest? Who would be responsible for managing them and how much would it cost? Who would own those koalas and be responsible for them? What about the New Zealand's native species that could be negatively impacted by the koalas? What about the other species that would need a relocation like the koalas? It is good to want to protect the koala, but the other species that are suffering also need our support. We absolutly don't can predict the evolution of the populations, and nothing can let us think that this relocation will work correctly. Finally, would this relocation lead to a similar situation that happened with the brushtail possums? |
