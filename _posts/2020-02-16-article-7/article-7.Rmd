@@ -45,7 +45,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Experts at the NSW inquiry, Scientists, Koala Hospitals.  |
-| Published in?                | December 10, 2019|
+| Published in?                | December 10, 2019 |
 | General topic?               | This article discusses about the development of cryogenics. To save the populations of koalas, and marsupials in general, we have to find new solutions to prevent the genetic disaster. |
 | Procedure/what was examined? | In Australia, the fire seasons are starting earlier, lasting longer and becoming more and more intense every year. So, the scientists have to find new solutions to reduce or totally avoid the genetical decrease. The scientists are examinating and developping the cryogenics. This method could be a hopefully solution to preserve the genetical diversity. |
 | Conclusions/discovery?       | Due to the several fires in Australia, sudden reductions in population size can cause genetic bottlenecks that lead to inbreeding. Eventually this reduces reproductive fitness and makes extinction more probable. The cryogenics is a good solution to preserve the genetical diversity. With this method, the koala's sperm, eggs, or embryos will be frozen and consequently the DNA will be preserved in those frozen cells. It can be a nice revolution the prevent the extinction and preserve the genetical diversity. |
