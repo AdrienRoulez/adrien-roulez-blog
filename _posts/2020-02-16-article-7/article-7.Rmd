@@ -1,0 +1,52 @@
+---
+title: "To save koalas from fire, we need to start putting their genetic material on ice."
+description: |
+  This article explains how we could prevent the genetical decrease and preserve the genetical diversity of the koala's populations. The development of cryogenics could be one of the solutions...
+author:
+  - name: Adrien Roulez
+    url: {}
+date: 02-16-2020
+preview: DNA.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Details
+
+* **Source of the article**
+
+<https://phys.org/news/2019-12-koalas-genetic-material-ice.html>
+
+* **Words number**
+674
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Inquiry | An act of asking for information. |
+| Unprecedented | Never done or known before. |
+| Cut off from each other | The different populations could be totally separated. |
+| Threatening| Causing someone to feel vulnerable or at risk. |
+| Cryogenics| The branch of physics dealing with the production and effects of very low temperatures. |
+| Above-average| Higher or better than average. |
+| Lungs| Each of the pair of organs situated within the ribcage, consisting of elastic sacs with branching passages into which air is drawn, so that oxygen can pass into the blood and carbon dioxide be removed. |
+| Shrinks| Become or make smaller in size or amount. |
+| Genetic bottlenecks| Genetical diversity narrowing. |
+| Reproductive fitness | An organism's ability to survive and reproduce in a particular environment. |
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Experts at the NSW inquiry, Scientists, Koala Hospitals.  |
+| Published in?                | December 10, 2019|
+| General topic?               | This article discusses about the development of cryogenics. To save the populations of koalas, and marsupials in general, we have to find new solutions to prevent the genetic disaster. |
+| Procedure/what was examined? | In Australia, the fire seasons are starting earlier, lasting longer and becoming more and more intense every year. So, the scientists have to find new solutions to reduce or totally avoid the genetical decrease. The scientists are examinating and developping the cryogenics. This method could be a hopefully solution to preserve the genetical diversity. |
+| Conclusions/discovery?       | Due to the several fires in Australia, sudden reductions in population size can cause genetic bottlenecks that lead to inbreeding. Eventually this reduces reproductive fitness and makes extinction more probable. The cryogenics is a good solution to preserve the genetical diversity. With this method, the koala's sperm, eggs, or embryos will be frozen and consequently the DNA will be preserved in those frozen cells. It can be a nice revolution the prevent the extinction and preserve the genetical diversity. |
+| Remaining questions?         | |

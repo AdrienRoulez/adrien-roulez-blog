@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-16-article-7/",
+    "title": "To save koalas from fire, we need to start putting their genetic material on ice.",
+    "description": "This article explains how we could prevent the genetical decrease and preserve the genetical diversity of the koala's populations. The development of cryogenics could be one of the solutions...",
+    "author": [
+      {
+        "name": "Adrien Roulez",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-16",
+    "categories": [],
+    "preview": "posts/2020-02-16-article-7/DNA.jpg",
+    "last_modified": "2020-02-16T14:43:32+01:00"
+  },
+  {
     "path": "posts/2020-02-10-article-6/",
     "title": "Relocating koalas to New Zealand is a nice idea, but it isn't a good one.",
     "description": "This article talks about the solutions to save the koalas from Australia. One of those solutions would be to move them to New Zealand, the nearest island from Australia...",
@@ -12,7 +27,7 @@
     "date": "2020-02-10",
     "categories": [],
     "preview": "posts/2020-02-10-article-6/maps.php.png",
-    "last_modified": "2020-02-16T12:21:58+01:00",
+    "last_modified": "2020-02-16T12:22:01+01:00",
     "preview_width": 219,
     "preview_height": 143
   },
