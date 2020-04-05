@@ -4,7 +4,7 @@ description: |
   Here are listed all my activities in relation with English : Youtube videos, reviews, books, articles...
 author:
   - name: AdrienRoulez
-date: 02-19-2020
+date: 04-05-2020
 preview: speak_english.jpg
 output:
   distill::distill_article:

@@ -1,7 +1,7 @@
 ---
 title: "Virtual reality and drones help to predict and protect koala habitat"
 description: |
-  A short description of the post.
+  This article explains how to proceed to map the natural habitat of the koalas' populations, and so protect it.
 author:
   - name: AdrienRoulez
     url: {}
@@ -45,7 +45,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Dr. Catherine Leigh, Associate Investigator with ACEMS|
 | Published in?                | December 11, 2019 |
-| General topic?               |  |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |  |
+| General topic?               | The general topic of this article is the fact that there are mathematic and modern solutions to protect the koalas. |
+| Procedure/what was examined? | A combination of virtual reality (VR), aerial thermal-imaging and ground surveys can be used to study the distribution of the koalas. This combination is after used to build a better statistical model for predicting the location of koalas. The researchers used ground survey information captured between 2012 and 2017 from Alexander Clarke Park in Loganholme. In addition, the researchers surveyed the area from the air using thermal cameras near sunrise to counteract the fact that it is difficult to monitor the populations from the ground. The third part of the study involved sending researchers out to some of the 82 specific locations in the area where koalas were known to either be or not be, to take 360-degree images. Those images were shown to experts with VR headsets. The advantage of the VR is that we can bring the environment at the researchers.|
+| Conclusions/discovery?       | If we are able to know and predict where the koalas are, we are able to know the zones that need to be protected and monitored. The researchers proved that this combination of VR-prompted expert information, thermal imagery and ground surveys, is 75 percent more accurate to predict koalas' locations than ground surveys alone. This method could be used by authorities in order to obtain essential informations to protect the species. |
 | Remaining questions?         |  |
