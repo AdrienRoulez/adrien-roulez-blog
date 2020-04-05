@@ -1,0 +1,51 @@
+---
+title: "Virtual reality and drones help to predict and protect koala habitat"
+description: |
+  A short description of the post.
+author:
+  - name: AdrienRoulez
+    url: {}
+date: 04-05-2020
+preview: images.jfif
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Details
+
+* **Source of the article**
+
+<https://phys.org/news/2019-12-virtual-reality-drones-koala-habitat.html>
+
+* **Words number**
+600
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| multi-pronged approach | An approach with different parts |
+| hanging around in | Here to be in a specific and favourite location |
+| facilities | A place, amenity, or piece of equipment provided for a particular purpose. |
+| playgrounds | An outdoor area provided for children to play in, especially at a school or public park. |
+| counteract | Act against (something) in order to reduce its force or neutralize it. |
+| surrounding | All round a particular place |
+| involved | Cause to participate in an activity or situation. |
+| likelihood | The state or fact of something's being likely; probability. |
+|three-pronged  | Having three projecting, pointed parts. |
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Dr. Catherine Leigh, Associate Investigator with ACEMS|
+| Published in?                | December 11, 2019 |
+| General topic?               |  |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
